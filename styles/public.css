@@ -110,6 +110,12 @@ body {
   color: var(--white);
 }
 
+.music-controls #play {
+  width: 0.8em;
+  font-size: 2rem;
+  transform: translateY(-0.1em);
+}
+
 @keyframes rotate {
   from {
     transform: rotate(0deg);
